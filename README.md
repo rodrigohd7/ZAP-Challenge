@@ -43,7 +43,7 @@ Para uma lista mais ampla procure a seção "Performance por bairro" no arquivo 
 
 
 
-![](/home/rodrigo/Dropbox/zap_challenge/media/corr_matrix.png)
+![](media/corr_matrix.png)
 
 ## Você utilizaria a métrica escolhida para seleção de modelo também para comunicar os resultados para usuários e stakeholders internos? Em caso negativo, qual outra métrica você utilizaria? Por quê?
 ​    A métrica utilizada, RMSE (Root Mean Square Error) é a mais intuitiva das metricas praticadas em regressões lineares, durante a comunicação bastaria deixar claro aos usuarios e stakeholders que este valor se mostra mais valioso quando proximo de zero

@@ -53,5 +53,7 @@ Para uma lista mais ampla procure a seção "Performance por bairro" no arquivo 
 ## Entre os clientes do Grupo ZAP temos pessoas que anunciam imóveis e pessoas que buscam imóveis. Como a sua solução poderia auxiliar cada tipo de cliente?
 
 ​    Anunciantes poderão prever o valor de seus imoveis com mais agilidade, dado que o processo de avaliação de um imovel não é algo tão rápido. Podem também estimar o valor do aluguel que pretendem cobrar, sem o medo de estar longe dos preços comumente praticados.
+
 ​    Compradores podem checar se os valores dos imoveis e dos alugueis estão em relação aos preços exercidos pelo mercado.
+
 ​    Um modelo treinado para este tipo de tarefa pode trazer mais clareza e agilidade para negociações imobiliarias.

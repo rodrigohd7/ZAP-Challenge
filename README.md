@@ -8,7 +8,7 @@ O arquivo final_predictor.ipynb contém  o processo tratamento dos dados de test
 
 
 
-## Em quais bairros modelo performa melhor? Deixe claro como chegou a esse resultado.
+### Em quais bairros modelo performa melhor? Deixe claro como chegou a esse resultado.
 
 Para esta verificação foi feita a predição dos preços das casas em cada bairro e medido o erro do modelo, os resultados são então ordenados de forma crescente pelo erro.
 
@@ -29,7 +29,7 @@ Para esta verificação foi feita a predição dos preços das casas em cada bai
 
 Para uma lista mais ampla procure a seção "Performance por bairro" no arquivo regression_training.ipynb e mude o parametro em [neighborhood_errors.head(10) ]
 
-## Se você tivesse que estimar o valor dos imóveis com apenas 3 campos, quais seriam eles?
+### Se você tivesse que estimar o valor dos imóveis com apenas 3 campos, quais seriam eles?
 
 - suites
 
@@ -45,12 +45,8 @@ Para uma lista mais ampla procure a seção "Performance por bairro" no arquivo 
 
 ![](media/corr_matrix.png)
 
-## Você utilizaria a métrica escolhida para seleção de modelo também para comunicar os resultados para usuários e stakeholders internos? Em caso negativo, qual outra métrica você utilizaria? Por quê?
-​    A métrica utilizada, RMSE (Root Mean Square Error) é a mais intuitiva das metricas praticadas em regressões lineares, durante a comunicação bastaria deixar claro aos usuarios e stakeholders que este valor se mostra mais valioso quando proximo de zero
 
-
-
-## Entre os clientes do Grupo ZAP temos pessoas que anunciam imóveis e pessoas que buscam imóveis. Como a sua solução poderia auxiliar cada tipo de cliente?
+### Entre os clientes do Grupo ZAP temos pessoas que anunciam imóveis e pessoas que buscam imóveis. Como a sua solução poderia auxiliar cada tipo de cliente?
 
 ​    Anunciantes poderão prever o valor de seus imoveis com mais agilidade, dado que o processo de avaliação de um imovel não é algo tão rápido. Podem também estimar o valor do aluguel que pretendem cobrar, sem o medo de estar longe dos preços comumente praticados.
 
